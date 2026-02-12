@@ -65,7 +65,7 @@ Isso permite uma arquitetura mais organizada e escalável.
 
 🛠️ Instalação
 1️⃣ Clone o repositório
-'''git clone https://github.com/seu-usuario/react-todo-list-recoil.git
+'git clone https://github.com/seu-usuario/react-todo-list-recoil.git'
 
 2️⃣ Acesse a pasta do projeto
 'cd react-todo-list-recoil
