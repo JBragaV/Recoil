@@ -8,15 +8,16 @@ O projeto foi construído utilizando Vite como bundler para desenvolvimento ráp
 
 React 18
 
-Recoil (Gerenciamento de Estado)
+- Recoil (Gerenciamento de Estado)
 
-Emotion Styled (@emotion/styled) (CSS-in-JS)
+- Emotion Styled (@emotion/styled) (CSS-in-JS)
 
-Vite (Build tool)
+- Vite (Build tool)
 
-ESLint (Linting)
+- ESLint (Linting)
 
 📦 Estrutura do Projeto
+'''bash
 react-todo-list-recoil/
 │
 ├── src/
@@ -28,6 +29,7 @@ react-todo-list-recoil/
 ├── index.html
 ├── package.json
 └── vite.config.js
+'''
 
 ⚙️ Funcionalidades
 
@@ -65,42 +67,35 @@ Isso permite uma arquitetura mais organizada e escalável.
 
 🛠️ Instalação
 1️⃣ Clone o repositório
-'git clone https://github.com/seu-usuario/react-todo-list-recoil.git
-
+'''bash
+git clone https://github.com/seu-usuario/react-todo-list-recoil.git
+'''
 2️⃣ Acesse a pasta do projeto
+'''bash
 'cd react-todo-list-recoil
-
+'''
 3️⃣ Instale as dependências
-'npm install
-
+'''bash
+npm install
+'''
 
 ou
 
-'yarn
+'''bash
+yarn
+'''
 
 ▶️ Rodando o projeto
 Ambiente de desenvolvimento
+'''bash
 npm run dev
-
+'''
 
 O projeto estará disponível em:
 
 http://localhost:5173
 
-🏗️ Build para produção
-npm run build
 
-
-Para visualizar o build:
-
-npm run preview
-
-📜 Scripts Disponíveis
-Script	Descrição
-npm run dev	Inicia o servidor de desenvolvimento
-npm run build	Gera build otimizado para produção
-npm run preview	Visualiza o build localmente
-npm run lint	Executa o ESLint
 🎨 Estilização
 
 A estilização foi feita com:
